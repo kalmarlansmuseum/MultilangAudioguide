@@ -1,0 +1,9 @@
+{
+    "file": "site\/templates\/welcome.php",
+    "textdomain": "site--templates--welcome-php",
+    "translations": {
+        "64e4e7740008ee50346b7ec50fc92544": {
+            "text": "Skip this. Let's go!"
+        }
+    }
+}

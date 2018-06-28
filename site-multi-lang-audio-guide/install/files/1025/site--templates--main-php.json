@@ -1,0 +1,9 @@
+{
+    "file": "site\/templates\/main.php",
+    "textdomain": "site--templates--main-php",
+    "translations": {
+        "00d93b549470bb1756eaac2654bd61ac": {
+            "text": "V\u00e4lj spr\u00e5k \/ Select your language \/ W\u00e4hle Sprache"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "site\/templates\/basic-page.php",
+    "textdomain": "site--templates--basic-page-php",
+    "translations": {
+        "f5da34f1003117a48946d6e39a26b3d9": {
+            "text": "Next"
+        },
+        "d5e3d958bcffc77411fe0be00230b357": {
+            "text": "Listen!"
+        }
+    }
+}

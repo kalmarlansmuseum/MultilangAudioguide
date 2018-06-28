@@ -1,0 +1,9 @@
+{
+    "file": "site\/templates\/home.php",
+    "textdomain": "site--templates--home-php",
+    "translations": {
+        "0b6cbdf7ad2928078f1600a3e8979485": {
+            "text": "Floor"
+        }
+    }
+}

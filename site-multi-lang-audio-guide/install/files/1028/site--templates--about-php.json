@@ -1,0 +1,12 @@
+{
+    "file": "site\/templates\/about.php",
+    "textdomain": "site--templates--about-php",
+    "translations": {
+        "e09b8af18c3964676f44d5510bb65aed": {
+            "text": "Drehbuch"
+        },
+        "aa5d31b9389ab4e0cf6a11aadf809b2c": {
+            "text": "Stimme"
+        }
+    }
+}

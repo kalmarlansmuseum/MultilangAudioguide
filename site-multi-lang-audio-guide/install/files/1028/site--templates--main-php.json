@@ -1,0 +1,21 @@
+{
+    "file": "site\/templates\/main.php",
+    "textdomain": "site--templates--main-php",
+    "translations": {
+        "aa17438debe08d159ec64cb3c4a5a6e5": {
+            "text": "Men\u00fc"
+        },
+        "f6dd105ddd46c610491e5319793281be": {
+            "text": "Sprache \u00e4ndern"
+        },
+        "00d93b549470bb1756eaac2654bd61ac": {
+            "text": "Sprache w\u00e4hlen"
+        },
+        "5dd6fe420ef960a3db60b728c34b547c": {
+            "text": "Bitte w\u00e4hle sprache!"
+        },
+        "d5e3d958bcffc77411fe0be00230b357": {
+            "text": "H\u00f6ren!"
+        }
+    }
+}
