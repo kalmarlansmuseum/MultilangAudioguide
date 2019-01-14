@@ -6,6 +6,7 @@ A multi lang audio guide site profile for [ProcessWire](https://github.com/proce
 * Uses Amplitude.js for audio playback. 
 
 Inspired by the [ACMI audio guide](https://github.com/ACMILabs/static-museum-audio-guide). Thanks for sharing!  
+Here is the guide in action: https://guide.kalmarlansmuseum.se/
 
 ![alt tag](http://guide.kalmarlansmuseum.se/kcm-audioguide.png "Mulit lang Audio guide site profile screen shot")
 
